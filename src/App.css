@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  width: 1300px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.Header {
+  display: flex;
 }
 
 .App-logo {

@@ -1,0 +1,20 @@
+.FeedBack {
+    margin: 5px;
+    border: 1px solid black;
+    display: flex;
+    text-align: center;
+    padding: 20px;
+}
+
+.FeedBackForm {
+    border: 1px solid black;
+    width: 50%;
+    height: auto;
+}
+
+.FeedBackDisplay {
+  border: 1px solid black;
+  width: 50%;
+  text-align: center;
+  height: auto;
+}

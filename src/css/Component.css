@@ -1,0 +1,136 @@
+.Name {
+  width: 700px;
+  height: 100px;
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  margin: 5px;
+  display: flex;
+}
+
+.Name-Image {
+  width: 100px;
+  height: 100px;
+  padding-left: 100px;
+}
+
+.Name-Details {
+  padding-left: 100px;
+}
+
+.Profile {
+  width: 700px;
+  height: 100px;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 5px;
+}
+
+.Profile-Image {
+  height: 20px;
+  width: 20px;
+  padding-left: 100px;
+  padding-right: 10px;
+}
+
+.Profile-Image-Div {
+  width: 100px;
+  display: flex;
+}
+
+.Education {
+  width: 700px;
+  height: 250px;
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  margin: 5px;
+}
+
+.About {
+  width: auto;
+  height: 140px;
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  margin: 5px;
+}
+
+.Experience {
+  width: 700px;
+  height: 270px;
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  margin: 5px;
+}
+
+.Profile {
+  width: 700px;
+  height: 100px;
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  margin: 5px;
+}
+
+.Project {
+  width: auto;
+  height: 100px;
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  margin: 5px;
+  display: flex;
+}
+
+.Project-Details {
+  padding-left: 130px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 130px;
+}
+
+.SkillSet {
+  width: auto;
+  height: 250px;
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  margin: 5px;
+  display: flex;
+}
+
+.Skill {
+  width: 400px;
+  height: 250px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.Tool {
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 5px;
+}
+
+.Hobbies {
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 5px;
+}
+
+.Hobbies-Image {
+  height: 30px;
+  width: 30px;
+  padding-right: 10px;
+}
