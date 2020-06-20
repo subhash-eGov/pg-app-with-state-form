@@ -1,5 +1,6 @@
 import React from "react";
 import Project from "../Project/Project.js";
+import {Link} from "react-router-dom";
 import "../../css/Component.css";
 
 class ProjectInfo extends React.Component{
@@ -12,7 +13,7 @@ class ProjectInfo extends React.Component{
 
     return(<div className="Project">
       <div className="Project-Details">
-        <Project projectInfo={filteredProjects}/>
+        <Link to="/projects"><Project projectInfo={filteredProjects}/></Link>
       </div>
       <div className="Project-Details">
         <Project projectInfo={filteredMentees}/>
